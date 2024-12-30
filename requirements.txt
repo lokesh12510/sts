@@ -1,0 +1,9 @@
+librosa==0.10.0
+pydub==0.25.1
+safetensors==0.4.5
+sentencepiece==0.2.0
+soundfile==0.12.1
+torch==2.5.1
+torchaudio==2.5.1
+transformers==4.47.1
+TTS==0.22.0
